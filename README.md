@@ -1,7 +1,5 @@
 # Curso Microsserviços Java com Spring Boot e Spring Cloud
 
-# Collection e environment completos para importar no Postman
-
 # Fase 1: Comunicação simples, Feign, Ribbon
 
 ### 1.1 Criar projeto hr-worker
